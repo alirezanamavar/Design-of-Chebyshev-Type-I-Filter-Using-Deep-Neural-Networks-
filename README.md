@@ -1,5 +1,4 @@
 # Design-of-Chebyshev-Type-I-Filter-Using-Deep-Neural-Networks-
-# Chebyshev Type I Filter Design Using Deep Neural Networks
 
 ## Overview
 
